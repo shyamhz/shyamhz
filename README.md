@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Shyamendra Hazra profile control plane" src="assets/hero-light.svg" width="100%">
+  <img alt="Shyamendra Hazra terminal session" src="assets/hero-light.svg" width="100%">
 </picture>
 
 ![profile](https://img.shields.io/badge/profile-shyamhz-00A7D1?style=flat-square&labelColor=102934) ![layers](https://img.shields.io/badge/layers-8-E84A8A?style=flat-square&labelColor=102934)
 
-## Flagship systems
+## Foreground jobs
 
 | Repository | Role | Purpose |
 | --- | --- | --- |
@@ -17,15 +17,15 @@
 | [`shyamhz`](https://github.com/shyamhz/shyamhz) ![stars](https://img.shields.io/github/stars/shyamhz/shyamhz?style=flat-square&label=%E2%98%85) | PROJECT 05 | — |
 | [`adaptive-engineering-plan`](https://github.com/shyamhz/adaptive-engineering-plan) ![stars](https://img.shields.io/github/stars/shyamhz/adaptive-engineering-plan?style=flat-square&label=%E2%98%85) | PROJECT 06 | Adaptive 8-10 month engineering career, skill, portfolio and public-positioning system: web x C/C\+\+ x WebGPU x AI agents with 40-week day-by-day execution |
 
-## Closed-loop architecture
+## Process tree
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/closed-loop-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/closed-loop-light.svg">
-  <img alt="Shyamendra Hazra architecture map" src="assets/closed-loop-light.svg" width="100%">
+  <img alt="Shyamendra Hazra process tree" src="assets/closed-loop-light.svg" width="100%">
 </picture>
 
-## Module registry
+## Background jobs
 
 <details>
 <summary><strong>TypeScript</strong> · 12 modules</summary>
